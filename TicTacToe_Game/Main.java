@@ -1,6 +1,7 @@
+package TicTacToe_Game;
 import java.util.Scanner;
 
-class TicTacToe {
+class Main{
 
     public static void main(String[] args) {
         char[][] board = new char[3][3];
